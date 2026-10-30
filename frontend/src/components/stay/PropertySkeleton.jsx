@@ -1,0 +1,1 @@
+export default function PropertySkeleton() { return <div className="property-card skeleton-card"><div className="skeleton-block" /><div className="skeleton-lines"><span /><span /><span /></div></div>; }
